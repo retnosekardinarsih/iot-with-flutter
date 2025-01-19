@@ -1,2 +1,2 @@
-# iot-with-flutter
-Ini adalah proyek penelitian Tugas Akhirku di prodi S1 Fisika FMIPA USU.  
+# The Automated Sprinklers System 
+Ini adalah proyek penelitian Tugas Akhirku di prodi S1 Fisika FMIPA USU. Kode ini dibuat dan dijalankan di Arduino IDE dan diunggah ke dalam NodeMCU ESP8266 agar alat penyiraman tanaman yang aku rancang dapat berjalan secara otomatis. Perangkat keras alat penyiraman tanaman ini aku integrasikan bersama dengan aplikasi yang aku bangun dengan framework Flutter, yang aku beri nama "Nyiram App" dan menghasilkan sebuah IoT yang membantu para petani mengontrol penyiraman tanamannya melalui ponsel pintarnya. 
